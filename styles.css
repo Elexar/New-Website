@@ -1,0 +1,25 @@
+
+
+/*This is my css file*/
+ html{
+   background-color: white;
+ }
+
+/*styles of tags*/
+h1{
+color: blue;
+padding: 30px;
+}
+
+/*Styles of classes*/
+.xbox{
+  font-size: 25px;
+  background-color: turquoise
+}
+p{
+  font-size-adjust: 30px;
+  color: orange;
+}
+ 
+/*Styles of id's*/
+font-family: 'Quicksand', sans-serif;
