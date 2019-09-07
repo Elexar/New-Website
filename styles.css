@@ -4,7 +4,7 @@
  html{
    background-color: beige;
    font-style: normal;
-   font-size: 34px;
+   font-size: 32px;
  }
 
  body {
@@ -14,7 +14,7 @@
 h1 {
   color: #466995;
   font-family: 'Oswald', sans-serif;
-  font-size: 34px;
+  font-size: 30px;
   font-weight: 300;
   text-transform: uppercase;
   }
@@ -86,5 +86,6 @@ li {
   text-transform: uppercase;
 }
 
-li:hover {
-  color: blue;
+li:hover{
+    color: blue;
+}
