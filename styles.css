@@ -4,7 +4,7 @@
  html{
    background-color: beige;
    font-style: normal;
-   font-size: 15px;
+   font-size: 30px;
  }
 
  body {
@@ -14,7 +14,7 @@
 h1 {
   color: #466995;
   font-family: 'Oswald', sans-serif;
-  font-size: 30px;
+  font-size: 32px;
   font-weight: 300;
   text-transform: uppercase;
   }
@@ -22,7 +22,7 @@ h1 {
   h2 {
   color: #333;
   font-family: 'Varela Round', sans-serif;
-  font-size: 24px;
+  font-size: 26px;
   font-weight: 100;
   margin: 0 auto 20px auto;
 }
@@ -88,9 +88,3 @@ li {
 
 li:hover {
   color: blue;
-
-  .television{
-    font-style: oblique;
-    color: brown;
-  }
-  images: https://giphy.com/gifs/xT9IgG50Fb7Mi0prBC/html5
