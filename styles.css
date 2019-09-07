@@ -9,6 +9,12 @@
 
  body{
    background-color: #F2F2F2;
+   margin: 0 auto;
+ }
+
+ header {
+   background-color: #466995;
+   border-bottom: 1px solid #466995;
  }
 
 
@@ -64,9 +70,11 @@ h4 {
   background-color: turquoise
 }
 p{
-  font-size-adjust: 30px;
-  color:teal;
+  color: #333;
+  font-family: 'Varela Round', sans-serif;
+  font-size: 18px;
 }
+
 .telephone{
   float:right;
   width: auto;
@@ -88,6 +96,12 @@ li {
   text-transform: uppercase;
 }
 
-li:hover{
+li:float{
+   float: right;
     color: blue;
+}
+
+footer {
+  background-color: #DBE9EE;
+  text-align: center;
 }
