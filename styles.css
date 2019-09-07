@@ -2,8 +2,9 @@
 
 /*This is my css file*/
  html{
-   background-color: white;
+   background-color: beige;
    font-style: normal;
+   font-size: 30px;
  }
 
 /*styles of tags*/
@@ -19,10 +20,34 @@ padding: 30px;
 }
 p{
   font-size-adjust: 30px;
-  color: orange;
+  color:teal;
 }
-
+.telephone{
+  float:right;
+  width: auto;
+  font-family: fantasy;
+  font-size: 30px;
+}
 /*Styles of id's*/
 h2{
 font-family: 'Quicksand', sans-serif;
 }
+
+h3{
+
+}
+ul {
+  margin: 30px auto;
+  padding: 0 20px;
+  text-align: center;
+}
+li {
+  color: #FFF;
+  font-family: 'Oswald', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
+li:hover {
+  color: #DBE9EE;
