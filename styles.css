@@ -1,43 +1,35 @@
-body {
-  background-color: #FFF;
-  margin: 0 auto;
-}
 
-header {
-  background-color: #466995;
-  border-bottom: 1px solid #466995;
-}
+/*This is my css file*/
+ html{
+   background-color: beige;
+   font-style: normal;
+   font-size: 32px;
+ }
 
-ul {
-  margin: 30px auto;
-  padding: 0 20px;
-  text-align: center;
-}
+ body{
+   background-color: #F2F2F2;
+   margin: 0 auto;
+ }
 
-li {
-  color: #FFF;
-  font-family: 'Oswald', sans-serif;
-  font-size: 16px;
-  font-weight: 300;
-  text-transform: uppercase;
-}
+ header {
+   background-color: #466995;
+   border-bottom: 1px solid #466995;
+ }
 
-li:hover {
-  color: #DBE9EE;
-}
 
+/*styles of tags*/
 h1 {
   color: #466995;
   font-family: 'Oswald', sans-serif;
-  font-size: 32px;
+  font-size: 30px; NOTTTTTTTTTTTTTTT
   font-weight: 300;
   text-transform: uppercase;
-}
+  }
 
-h2 {
+  h2 {
   color: #333;
   font-family: 'Varela Round', sans-serif;
-  font-size: 26px;
+  font-size: 30px; NOTTTTTTTTTTTTTTT
   font-weight: 100;
   margin: 0 auto 20px auto;
 }
@@ -45,7 +37,7 @@ h2 {
 h3 {
   color: #466995;
   font-family: 'Oswald', sans-serif;
-  font-size: 18px;
+  font-size: 20px; NOTTTTTTTTTTTTTTT
   text-align: center;
   font-weight: 700;
   text-transform: uppercase;
@@ -55,23 +47,13 @@ h3 {
 h4 {
   color: #466995;
   font-family: 'Oswald', sans-serif;
-  font-size: 18px;
+  font-size: 20px; NOTTTTTTTTTTTTTTT
   font-weight: 300;
   letter-spacing: 2px;
   text-align: center;
   text-transform: uppercase
 }
 
-p {
-  color: #333;
-  font-family: 'Varela Round', sans-serif;
-  font-size: 18px;
-}
-
-footer {
-  background-color: #DBE9EE;
-  text-align: center;
-}
 
 .welcome {
   background-color: #DBE9EE;
@@ -81,17 +63,45 @@ footer {
   width: 100%;
 }
 
-.question {
+/*Styles of classes*/
+.xbox{
+  font-size: 30px;
+  background-color: turquoise
+}
+p {
+  color: #333;
+  font-family: 'Varela Round', sans-serif;
+  font-size: 18px;
+}
+
+.telephone{
+  float: right;
+  width: auto;
+  font-family: fantasy;
+  font-size: 30px;
+}
+/*Styles of id's*/
+
+ul {
+  margin: 30px auto;
+  padding: 0 20px;
   text-align: center;
-  position: static;
+  color: blue; NOTTTTTTTTTTTTTTT
+}
+li {
+  color: blue; NOTTTTTTTTTTTTTTT
+  font-family: 'Oswald', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  text-transform: uppercase;
 }
 
-.answer {
-  border: 1px solid #466995;
-  margin: 20px;
+li: float{ NOTTTTTTTTTTTTTTT
+   float: right;
+    color: blue;
 }
 
-.answer:hover {
-  background: #C0D6DF;
-  color: #FFF;
+footer {
+  background-color: #DBE9EE;
+  text-align: center;
 }
