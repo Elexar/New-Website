@@ -3,6 +3,7 @@
 /*This is my css file*/
  html{
    background-color: white;
+   font-style: normal;
  }
 
 /*styles of tags*/
@@ -20,6 +21,8 @@ p{
   font-size-adjust: 30px;
   color: orange;
 }
- 
+
 /*Styles of id's*/
+h2{
 font-family: 'Quicksand', sans-serif;
+}
