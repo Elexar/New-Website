@@ -4,7 +4,7 @@
  html{
    background-color: beige;
    font-style: normal;
-   font-size: 30px;
+   font-size: 34px;
  }
 
  body {
@@ -14,7 +14,7 @@
 h1 {
   color: #466995;
   font-family: 'Oswald', sans-serif;
-  font-size: 32px;
+  font-size: 34px;
   font-weight: 300;
   text-transform: uppercase;
   }
@@ -22,7 +22,7 @@ h1 {
   h2 {
   color: #333;
   font-family: 'Varela Round', sans-serif;
-  font-size: 26px;
+  font-size: 30px;
   font-weight: 100;
   margin: 0 auto 20px auto;
 }
@@ -30,7 +30,7 @@ h1 {
 h3 {
   color: #466995;
   font-family: 'Oswald', sans-serif;
-  font-size: 18px;
+  font-size: 20px;
   text-align: center;
   font-weight: 700;
   text-transform: uppercase;
@@ -40,7 +40,7 @@ h3 {
 h4 {
   color: #466995;
   font-family: 'Oswald', sans-serif;
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 300;
   letter-spacing: 2px;
   text-align: center;
@@ -58,7 +58,7 @@ h4 {
 
 /*Styles of classes*/
 .xbox{
-  font-size: 25px;
+  font-size: 30px;
   background-color: turquoise
 }
 p{
