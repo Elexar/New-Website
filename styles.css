@@ -76,10 +76,10 @@ ul {
   margin: 30px auto;
   padding: 0 20px;
   text-align: center;
-  color: darkgrey;
+  color: blue;
 }
 li {
-  color: darkgrey;
+  color: blue;
   font-family: 'Oswald', sans-serif;
   font-size: 16px;
   font-weight: 300;
@@ -87,4 +87,4 @@ li {
 }
 
 li:hover {
-  color: #DBE9EE;
+  color: blue;
